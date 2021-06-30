@@ -21,59 +21,6 @@ article {
   margin: 20px auto;
   padding: 20px;
   background: #fff;
-}
-header {
-  background: #f83;
-  color: #fff;
-  padding: 10px;
-}
-section {
-  padding: 20px;
-  border: 1px solid #ccc;
-}
-img {
-  display: block;
-  width: 100%;
-  height: auto;
-  margin-bottom: 40px;
-}
-h2 {
-  color: #f83;
-  margin-bottom: 10px;
-}
-ul,ol {
-  padding-left: 1.2em;
-}
-address {
-  text-align: center;
-}
-
-高橋先生  14:50
-@channel チャレンジ課題 5/5ページ
-ch.css
-@charset "UTF-8";
-/*-----------------
-全体の初期設定
------------------*/
-* {
-  box-sizing: border-box;
-  font-family: メイリオ;
-  margin: 0;
-}
-/*-----------------
-個別設定
------------------*/
-body {
-  background: #f8d8bf;
-  margin: 0;
-  padding: 0;
-}
-article {
-  width: 800px;
-  max-width: 90%;
-  margin: 20px auto;
-  padding: 20px;
-  background: #fff;
   position: relative;/*ヘッダーの位置を動かす*/
 }
 header {
